@@ -1,3 +1,13 @@
+.loading-image{
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+}
+
+.margin-top-200{
+    margin-top: 200px;
+}
+
 code.language-markup {
     overflow: auto !important;
 
